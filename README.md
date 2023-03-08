@@ -1,15 +1,10 @@
 Rock ✊ Paper 🤚 Scissors ✌ Game
 
 
-Rock-Paper-Scissors is a hand game that is typically played between two people. The game involves each player making a choice of either rock, paper or scissors with their hand, and then revealing their choice simultaneously. The winner is determined by a set of rules that dictate which hand gesture beats the others.
+Fuzz testi olarak da bilinen fuzzing, yazılım uygulamalarındaki, protokollerdeki veya sistemlerdeki güvenlik açıklarını belirlemek için ağ güvenlik testlerinde kullanılan bir tekniktir.
 
-The basic rules of Rock-Paper-Scissors are as follows:
+Bulanıklık testinde, bir yazılım programı veya ağ sistemi, bunları nasıl ele aldığını test etmek için rastgele, geçersiz veya beklenmeyen girdilerle bombardımana tutulur. Amaç, beklenmeyen veya geçersiz girdilere nasıl tepki verdiğini gözlemleyerek sistemdeki zayıflıkları, hataları veya diğer güvenlik kusurlarını bulmaktır.
 
-  Rock beats scissors (by crushing them)
-  Scissors beats paper (by cutting it)
-  Paper beats rock (by covering it)
-  If both players choose the same gesture, it is a tie and the game is usually played again.
+Örneğin, bir ağ bulanıklaştırma aracı, hizmeti çökertip çökemeyeceğini veya beklenmeyen şekillerde davranmasına neden olup olmayacağını görmek için bir ağ hizmetine hatalı biçimlendirilmiş bir paket veya beklenmeyen veriler gönderebilir. Güvenlik araştırmacıları, yanıtları analiz ederek potansiyel güvenlik açıklarını belirleyebilir ve bunları düzeltmek için yamalar veya azaltmalar geliştirebilir.
 
-The game is often used as a decision-making tool or as a way to settle disputes in a playful manner. It is also sometimes used in tournaments or competitions.
-
-Rock-Paper-Scissors is a simple and fun game that can be played by people of all ages. Its simplicity and popularity have also made it a subject of study in game theory and psychology.
+Bulanıklaştırma genellikle otomatiktir ve ağlarda ve yazılım sistemlerindeki güvenlik açıklarını belirlemede ve önlemede değerli bir araç olabilir. Yazılım ve ağ sistemlerinin güvenliğini ve güvenilirliğini sağlamak için güvenlik araştırmacıları, yazılım geliştiricileri ve kalite güvence ekipleri tarafından yaygın olarak kullanılır.
