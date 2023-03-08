@@ -1,3 +1,6 @@
+Rock ✊ Paper 🤚 Scissors ✌ Game
+
+
 Rock-Paper-Scissors is a hand game that is typically played between two people. The game involves each player making a choice of either rock, paper or scissors with their hand, and then revealing their choice simultaneously. The winner is determined by a set of rules that dictate which hand gesture beats the others.
 
 The basic rules of Rock-Paper-Scissors are as follows:
